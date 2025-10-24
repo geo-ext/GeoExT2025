@@ -36,3 +36,9 @@ The Third GeoExT workshop is dedicated to foster discussion and exchange on rece
 <p align="center">
   <img src="{{site.baseurl}}/figure/isprs_logo.jpg" width="120">
 </p>
+
+
+<script data-goatcounter="https://geoext.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+
+
