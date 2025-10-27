@@ -55,7 +55,9 @@ nav_order: 7
 * <span style="font-size:20px;"><strong>René Westerholt</strong>, Dortmund University, Germany</span>
 * <span style="font-size:20px;"><strong>Zhiyong Zhou</strong>, University of Zurich, Switzerland</span>
 * <span style="font-size:20px;"><strong>Lei Zou</strong>, Texas A&M University, US</span>
-
+* <span style="font-size:20px;"><strong>René Westerholt</strong>, Dortmund University, Germany</span>
+* <span style="font-size:20px;"><strong>Zhiyong Zhou</strong>, University of Wisconsin-Madison, US</span>
+* <span style="font-size:20px;"><strong>Erum Haris</strong>, University of Leeds, UK</span>
 
 
 
